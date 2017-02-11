@@ -19,5 +19,13 @@
     "comics"
   ],
   "author": "Leonardo Piccioni de Almeida",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leopiccionia/eisner-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/leopiccionia/eisner-api/issues"
+  },
+  "homepage": "https://github.com/leopiccionia/eisner-api#readme"
 }
