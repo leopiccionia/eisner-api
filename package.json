@@ -1,0 +1,23 @@
+{
+  "name": "eisner-api",
+  "version": "0.0.0",
+  "description": "API companion for 'eisner' comics reading tool.",
+  "main": "server.js",
+  "dependencies": {
+    "async": "^0.2.10",
+    "express": "^3.2.6",
+    "rethinkdb": "^2.3.3",
+    "rethinkdbdash": "^2.3.28",
+    "socket.io": "^0.9.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "comics"
+  ],
+  "author": "Leonardo Piccioni de Almeida",
+  "license": "ISC"
+}
